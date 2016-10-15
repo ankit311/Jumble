@@ -1,0 +1,40 @@
+.jumbotron{
+    background-color: #46b8da;
+}
+input[type=button]{
+    background-color: #31b0d5;
+    color: #f8f8f8;
+    font-family: Algerian;
+    font-size: 20px;
+    width: 6%;
+}
+#list{
+    background-color: #f0ad4e;
+    color: #2b669a;
+    font-family: Monotype Corsiva;
+    border-bottom: 8px double #2b542c;
+    border-radius: 15px;
+    width: 40%;
+}
+#cityhead{
+    color:  #f7e1b5;
+    font-family: arial black;
+}
+input[type=submit]{
+    background-color: #245580;
+    color:  coral;
+    border: 3px solid whitesmoke;
+    border-radius: 10px;
+    font-size: 25px;
+}
+ol{
+    color:  #d43f3a;
+    font-size: 25px;
+}
+a:hover{
+    text-decoration: none;
+}
+td{
+    color: black;
+    font-size: 15px;
+}
